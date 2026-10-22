@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Intent Practice</string>
+    <string name="second_activity_title">Second Activity</string>
+    <string name="second_activity_button">Second Activity</string>
+    <string name="second_activity_message">You are in the Second Activity</string>
+</resources>
